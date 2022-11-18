@@ -1,10 +1,10 @@
-package application.collections
+package app.mycollections
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class CollectionsApplicationTests {
+class MyCollectionsApplicationTests {
 
 	@Test
 	fun contextLoads() {

@@ -1,1 +1,1 @@
-rootProject.name = "collections"
+rootProject.name = "my-collections"
